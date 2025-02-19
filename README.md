@@ -1,4 +1,5 @@
-# Welcome to your Lovable project
+
+# solana-volume-booster
 
 ## Project info
 
